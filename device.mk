@@ -186,11 +186,6 @@ PRODUCT_PACKAGES += \
     ethertypes \
     libebtc
 
-# FM
-PRODUCT_PACKAGES += \
-    FMRadio \
-    libfmjni
-
 # Fingerprint
 PRODUCT_PACKAGES += \
     android.hardware.biometrics.fingerprint@2.0-service.xiaomi_oxygen
