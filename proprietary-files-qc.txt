@@ -453,7 +453,7 @@ etc/permissions/telephonyservice.xml
 -framework/qti-telephony-common.jar
 -priv-app/qcrilmsgtunnel/qcrilmsgtunnel.apk
 etc/permissions/qti_libpermissions.xml
-vendor/bin/hw/rild
+vendor/bin/ATFWD-daemon
 vendor/bin/ipacm-diag
 vendor/bin/netmgrd
 vendor/bin/qti
